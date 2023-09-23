@@ -1,0 +1,10 @@
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\bin\Debug\MonHoc.exe.config
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\bin\Debug\MonHoc.exe
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\bin\Debug\MonHoc.pdb
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\obj\Debug\MonHoc.csproj.AssemblyReference.cache
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\obj\Debug\MonHoc.Form1.resources
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\obj\Debug\MonHoc.Properties.Resources.resources
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\obj\Debug\MonHoc.csproj.GenerateResource.cache
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\obj\Debug\MonHoc.csproj.CoreCompileInputs.cache
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\obj\Debug\MonHoc.exe
+F:\document\Ki 5\LapTrinhTrucQuan\MonHoc\obj\Debug\MonHoc.pdb

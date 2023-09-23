@@ -1,0 +1,10 @@
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\bin\Debug\PhongBan.exe.config
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\bin\Debug\PhongBan.exe
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\bin\Debug\PhongBan.pdb
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\obj\Debug\PhongBan.csproj.AssemblyReference.cache
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\obj\Debug\PhongBan.Form1.resources
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\obj\Debug\PhongBan.Properties.Resources.resources
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\obj\Debug\PhongBan.csproj.GenerateResource.cache
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\obj\Debug\PhongBan.csproj.CoreCompileInputs.cache
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\obj\Debug\PhongBan.exe
+F:\document\Ki 5\LapTrinhTrucQuan\PhongBan\obj\Debug\PhongBan.pdb

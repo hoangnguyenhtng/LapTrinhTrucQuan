@@ -1,0 +1,10 @@
+D:\LapTrinhTrucQuan\ListViewDemo5-9\obj\Debug\ListViewDemo5-9.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\ListViewDemo5-9\obj\Debug\ListViewDemo5_9.Form1.resources
+D:\LapTrinhTrucQuan\ListViewDemo5-9\obj\Debug\ListViewDemo5_9.Properties.Resources.resources
+D:\LapTrinhTrucQuan\ListViewDemo5-9\obj\Debug\ListViewDemo5-9.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\ListViewDemo5-9\obj\Debug\ListViewDemo5-9.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\ListViewDemo5-9\bin\Debug\ListViewDemo5-9.exe.config
+D:\LapTrinhTrucQuan\ListViewDemo5-9\bin\Debug\ListViewDemo5-9.exe
+D:\LapTrinhTrucQuan\ListViewDemo5-9\bin\Debug\ListViewDemo5-9.pdb
+D:\LapTrinhTrucQuan\ListViewDemo5-9\obj\Debug\ListViewDemo5-9.exe
+D:\LapTrinhTrucQuan\ListViewDemo5-9\obj\Debug\ListViewDemo5-9.pdb

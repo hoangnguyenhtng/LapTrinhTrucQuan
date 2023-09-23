@@ -1,0 +1,31 @@
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\bin\Debug\gpt2Winform.exe.config
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\bin\Debug\gpt2Winform.exe
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\bin\Debug\gpt2Winform.pdb
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.csproj.AssemblyReference.cache
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.csproj.SuggestedBindingRedirects.cache
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.Form1.resources
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.Properties.Resources.resources
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.csproj.GenerateResource.cache
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.csproj.CoreCompileInputs.cache
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.exe
+F:\document\Ki 5\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.pdb
+C:\Users\hoang\Downloads\gpt2Winform\bin\Debug\gpt2Winform.exe.config
+C:\Users\hoang\Downloads\gpt2Winform\bin\Debug\gpt2Winform.exe
+C:\Users\hoang\Downloads\gpt2Winform\bin\Debug\gpt2Winform.pdb
+C:\Users\hoang\Downloads\gpt2Winform\obj\Debug\gpt2Winform.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\gpt2Winform\obj\Debug\gpt2Winform.Form1.resources
+C:\Users\hoang\Downloads\gpt2Winform\obj\Debug\gpt2Winform.Properties.Resources.resources
+C:\Users\hoang\Downloads\gpt2Winform\obj\Debug\gpt2Winform.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\gpt2Winform\obj\Debug\gpt2Winform.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\gpt2Winform\obj\Debug\gpt2Winform.exe
+C:\Users\hoang\Downloads\gpt2Winform\obj\Debug\gpt2Winform.pdb
+D:\LapTrinhTrucQuan\gpt2Winform\bin\Debug\gpt2Winform.exe.config
+D:\LapTrinhTrucQuan\gpt2Winform\bin\Debug\gpt2Winform.exe
+D:\LapTrinhTrucQuan\gpt2Winform\bin\Debug\gpt2Winform.pdb
+D:\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.Form1.resources
+D:\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.Properties.Resources.resources
+D:\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.exe
+D:\LapTrinhTrucQuan\gpt2Winform\obj\Debug\gpt2Winform.pdb

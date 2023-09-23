@@ -1,0 +1,10 @@
+D:\LapTrinhTrucQuan\FormStore\bin\Debug\FormStore.exe.config
+D:\LapTrinhTrucQuan\FormStore\bin\Debug\FormStore.exe
+D:\LapTrinhTrucQuan\FormStore\bin\Debug\FormStore.pdb
+D:\LapTrinhTrucQuan\FormStore\obj\Debug\FormStore.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\FormStore\obj\Debug\FormStore.Form1.resources
+D:\LapTrinhTrucQuan\FormStore\obj\Debug\FormStore.Properties.Resources.resources
+D:\LapTrinhTrucQuan\FormStore\obj\Debug\FormStore.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\FormStore\obj\Debug\FormStore.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\FormStore\obj\Debug\FormStore.exe
+D:\LapTrinhTrucQuan\FormStore\obj\Debug\FormStore.pdb

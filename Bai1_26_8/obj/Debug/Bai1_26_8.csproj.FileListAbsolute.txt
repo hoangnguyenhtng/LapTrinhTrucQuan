@@ -1,0 +1,10 @@
+D:\LapTrinhTrucQuan\Bai1_26_8\bin\Debug\Bai1_26_8.exe.config
+D:\LapTrinhTrucQuan\Bai1_26_8\bin\Debug\Bai1_26_8.exe
+D:\LapTrinhTrucQuan\Bai1_26_8\bin\Debug\Bai1_26_8.pdb
+D:\LapTrinhTrucQuan\Bai1_26_8\obj\Debug\Bai1_26_8.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\Bai1_26_8\obj\Debug\Bai1_26_8.Form1.resources
+D:\LapTrinhTrucQuan\Bai1_26_8\obj\Debug\Bai1_26_8.Properties.Resources.resources
+D:\LapTrinhTrucQuan\Bai1_26_8\obj\Debug\Bai1_26_8.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\Bai1_26_8\obj\Debug\Bai1_26_8.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\Bai1_26_8\obj\Debug\Bai1_26_8.exe
+D:\LapTrinhTrucQuan\Bai1_26_8\obj\Debug\Bai1_26_8.pdb

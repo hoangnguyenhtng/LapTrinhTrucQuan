@@ -1,0 +1,10 @@
+D:\LapTrinhTrucQuan\WindowsFormsApp228\bin\Debug\WindowsFormsApp228.exe.config
+D:\LapTrinhTrucQuan\WindowsFormsApp228\bin\Debug\WindowsFormsApp228.exe
+D:\LapTrinhTrucQuan\WindowsFormsApp228\bin\Debug\WindowsFormsApp228.pdb
+D:\LapTrinhTrucQuan\WindowsFormsApp228\obj\Debug\WindowsFormsApp228.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\WindowsFormsApp228\obj\Debug\WindowsFormsApp228.Form1.resources
+D:\LapTrinhTrucQuan\WindowsFormsApp228\obj\Debug\WindowsFormsApp228.Properties.Resources.resources
+D:\LapTrinhTrucQuan\WindowsFormsApp228\obj\Debug\WindowsFormsApp228.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\WindowsFormsApp228\obj\Debug\WindowsFormsApp228.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\WindowsFormsApp228\obj\Debug\WindowsFormsApp228.exe
+D:\LapTrinhTrucQuan\WindowsFormsApp228\obj\Debug\WindowsFormsApp228.pdb

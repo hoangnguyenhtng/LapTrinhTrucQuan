@@ -1,0 +1,8 @@
+F:\document\Ki 5\LapTrinhTrucQuan\Demo\bin\Debug\Demo.exe.config
+F:\document\Ki 5\LapTrinhTrucQuan\Demo\bin\Debug\Demo.exe
+F:\document\Ki 5\LapTrinhTrucQuan\Demo\bin\Debug\Demo.pdb
+F:\document\Ki 5\LapTrinhTrucQuan\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+F:\document\Ki 5\LapTrinhTrucQuan\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+F:\document\Ki 5\LapTrinhTrucQuan\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+F:\document\Ki 5\LapTrinhTrucQuan\Demo\obj\Debug\Demo.exe
+F:\document\Ki 5\LapTrinhTrucQuan\Demo\obj\Debug\Demo.pdb
