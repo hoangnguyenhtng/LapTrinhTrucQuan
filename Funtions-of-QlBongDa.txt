@@ -1,0 +1,80 @@
+*** Funtions of QlBongDa ***
+
+* Trận Đấu:
+	* Filter : ok -> cần message khi không tìm thấy
+	* Detail : ok
+	* Update (also update Diem of DoiBong): ok -> cân về form chính
+	* Delete (also delete three other tables as well): ok
+	* Statistics: ok - excel -> reportview
+	* Add New: ok
+	* Reset : ok
+* Đội Bóng:
+	* Filter : ok
+	* Detail : ok
+	* Add new: test
+	* update : ok -> cần về form chính, messageBox
+	* Statistics: ok - excel -> reportview
+	* Delete: ok (if deleted, all members of team are deleted)
+	* Reset : ok
+* Cầu thủ:
+	* Filter : ok -> cần check thêm khi reset xong, message khi không tìm thấy(ok)
+	* Add new: ảnh đưa lên đang lỗi
+	* Update : ok -> cần về form chính
+	* Detail : ok (đã load ảnh)
+	* Delete : ok (delete three other tables as well)
+	* Statistics: ok - excel -> reportview
+	* Reset : ok
+	* InMainForm: chưa load đc ảnh.
+* Validate:
+	* đối với mọi thao tác delete, phải messageBox thông báo.
+	* CauThu: nguyên alone
+		* create, update: -> ok
+			* Tên: không rỗng, không là số
+			* Má đội bóng, quốc tích , vị trí, ngày sinh : phải chọn
+			* số áo: chỉ là số, không rỗng, nguyên > 0
+			* ảnh: có thế có hoặc không
+		* filter: -> ok
+			* tên ct: chọn hoặc không
+			* tên đội bóng: chọn hoặc không chọn
+			* số bàn thắng: là số, >0 , có hoặc không.
+	* DoiBong:
+		* create, update: -> mai làm
+			* Tên, Mã tỉnh, HLV: không rỗng, không là số
+			* số cầu thủ: không cho nhập.
+		* filter: -> ok
+			* tên đội bóng: chọn hoặc không
+			* điểm: là số, lớn hơn 0, hoặc không có gì.
+	* TranDau: hoàng nguyên -> đang lạc trôi trong love
+		*  create:
+			* vòng đấu, lượt đấu: phải ghi, không là số
+			* đội nhà, đội khách, ghi chú : phải chọn
+			* mã đội nhà đội khác không dc trùng nhau.
+		* update:
+			* Luot dau, vong dau: phai có, không là số
+			* mã đội nhà, đội khách: không đc thay đổi
+			* thắng, đỏ, vàng  nhà-khách: phải là số >=0
+			* trạng thái: phải chọn
+		* filter:
+			* tên đội nhà: chọn hoặc không
+			* thắng nhà, đỏ nhà: là số >=0, có hoặc không
+
+* Ghép xong validate -> nghieen cứu xếp hạng Vluage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

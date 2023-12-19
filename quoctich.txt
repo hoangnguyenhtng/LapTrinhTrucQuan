@@ -1,0 +1,40 @@
+namespace DTO
+{
+    public class QuocTich
+    {
+        public string MaQuocTich { get; set; }
+        public string TenQuocTich { get; set; }
+    }
+}
+
+
+namespace DAL
+{
+    public class QuocTichAccess
+    {
+        public static List<string> RetrieveAllNameQuocTich()
+        {
+            List<string> list = new List<string>();
+            string sql = "select * from dbo.QUOCTICH";
+            DataTable dt = DatabaseAccess.ReadTable(sql);
+            foreach (DataRow row in dt.Rows)
+            {
+                string tenValue = row["TENQUOCTICH"].ToString();
+                list.Add(tenValue);
+            }
+            return list;
+        }   
+    }
+}
+
+
+namespace BLL
+{
+    public class QuocTichService
+    {
+        public static List<string> RetrieveAllNameQuocTich()
+        {
+            return QuocTichAccess.RetrieveAllNameQuocTich();
+        }
+    }
+}
