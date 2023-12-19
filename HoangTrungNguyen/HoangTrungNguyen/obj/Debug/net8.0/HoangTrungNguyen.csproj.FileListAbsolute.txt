@@ -1,0 +1,9 @@
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.AssemblyInfoInputs.cache
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.AssemblyInfo.cs
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.MvcApplicationPartsAssemblyInfo.cache
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.RazorAssemblyInfo.cache
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.RazorAssemblyInfo.cs
+D:\LapTrinhTrucQuan\HoangTrungNguyen\HoangTrungNguyen\obj\Debug\net8.0\HoangTrungNguyen.sourcelink.json

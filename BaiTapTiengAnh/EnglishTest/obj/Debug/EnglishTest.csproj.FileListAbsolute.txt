@@ -1,0 +1,24 @@
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\bin\Debug\EnglishTest.exe.config
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\bin\Debug\EnglishTest.exe
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\bin\Debug\EnglishTest.pdb
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csproj.AssemblyReference.cache
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.Bai1.resources
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.Form1.resources
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.Properties.Resources.resources
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csproj.GenerateResource.cache
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csproj.CoreCompileInputs.cache
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.exe
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.pdb
+F:\document\Ki 5\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.BienDoiCau.resources
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\bin\Debug\EnglishTest.exe.config
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\bin\Debug\EnglishTest.exe
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\bin\Debug\EnglishTest.pdb
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.Bai1.resources
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.BienDoiCau.resources
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.Form1.resources
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.Properties.Resources.resources
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.exe
+D:\LapTrinhTrucQuan\EnglishTest\EnglishTest\obj\Debug\EnglishTest.pdb

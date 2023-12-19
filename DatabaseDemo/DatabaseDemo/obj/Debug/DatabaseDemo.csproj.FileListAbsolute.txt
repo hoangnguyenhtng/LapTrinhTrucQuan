@@ -1,0 +1,12 @@
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\bin\Debug\QLHangHoa.mdf
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\bin\Debug\QLHangHoa_log.ldf
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe.config
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.Form1.resources
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+D:\LapTrinhTrucQuan\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb

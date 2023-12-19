@@ -1,0 +1,26 @@
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\bin\Debug\HangHoa.mdf
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\bin\Debug\HangHoa_log.ldf
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\bin\Debug\TimKiemHangHoa.exe.config
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\bin\Debug\TimKiemHangHoa.exe
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\bin\Debug\TimKiemHangHoa.pdb
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.csproj.AssemblyReference.cache
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.Form1.resources
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.Properties.Resources.resources
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.csproj.GenerateResource.cache
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.csproj.CoreCompileInputs.cache
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.exe
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.pdb
+E:\Year3\SEMESTER 1\Lập trình trực quan\code\TimKiemHangHoa\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.csproj.ResolveComReference.cache
+D:\LapTrinhTrucQuan\TimKiemHangHoa\bin\Debug\HangHoa.mdf
+D:\LapTrinhTrucQuan\TimKiemHangHoa\bin\Debug\HangHoa_log.ldf
+D:\LapTrinhTrucQuan\TimKiemHangHoa\bin\Debug\TimKiemHangHoa.exe.config
+D:\LapTrinhTrucQuan\TimKiemHangHoa\bin\Debug\TimKiemHangHoa.exe
+D:\LapTrinhTrucQuan\TimKiemHangHoa\bin\Debug\TimKiemHangHoa.pdb
+D:\LapTrinhTrucQuan\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.csproj.ResolveComReference.cache
+D:\LapTrinhTrucQuan\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.Form1.resources
+D:\LapTrinhTrucQuan\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.Properties.Resources.resources
+D:\LapTrinhTrucQuan\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.exe
+D:\LapTrinhTrucQuan\TimKiemHangHoa\obj\Debug\TimKiemHangHoa.pdb

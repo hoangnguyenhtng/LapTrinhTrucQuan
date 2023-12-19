@@ -1,0 +1,13 @@
+D:\LapTrinhTrucQuan\TimHangHoa\bin\Debug\HangHoa.mdf
+D:\LapTrinhTrucQuan\TimHangHoa\bin\Debug\HangHoa_log.ldf
+D:\LapTrinhTrucQuan\TimHangHoa\bin\Debug\TimKiemHangHoa.exe.config
+D:\LapTrinhTrucQuan\TimHangHoa\bin\Debug\TimKiemHangHoa.exe
+D:\LapTrinhTrucQuan\TimHangHoa\bin\Debug\TimKiemHangHoa.pdb
+D:\LapTrinhTrucQuan\TimHangHoa\obj\Debug\TimHangHoa.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\TimHangHoa\obj\Debug\TimHangHoa.csproj.ResolveComReference.cache
+D:\LapTrinhTrucQuan\TimHangHoa\obj\Debug\TimKiemHangHoa.Form1.resources
+D:\LapTrinhTrucQuan\TimHangHoa\obj\Debug\TimKiemHangHoa.Properties.Resources.resources
+D:\LapTrinhTrucQuan\TimHangHoa\obj\Debug\TimHangHoa.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\TimHangHoa\obj\Debug\TimHangHoa.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\TimHangHoa\obj\Debug\TimKiemHangHoa.exe
+D:\LapTrinhTrucQuan\TimHangHoa\obj\Debug\TimKiemHangHoa.pdb

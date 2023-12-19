@@ -1,0 +1,10 @@
+D:\LapTrinhTrucQuan\Test8\Test8\bin\Debug\Test8.exe.config
+D:\LapTrinhTrucQuan\Test8\Test8\bin\Debug\Test8.exe
+D:\LapTrinhTrucQuan\Test8\Test8\bin\Debug\Test8.pdb
+D:\LapTrinhTrucQuan\Test8\Test8\obj\Debug\Test8.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\Test8\Test8\obj\Debug\Test8.Form1.resources
+D:\LapTrinhTrucQuan\Test8\Test8\obj\Debug\Test8.Properties.Resources.resources
+D:\LapTrinhTrucQuan\Test8\Test8\obj\Debug\Test8.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\Test8\Test8\obj\Debug\Test8.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\Test8\Test8\obj\Debug\Test8.exe
+D:\LapTrinhTrucQuan\Test8\Test8\obj\Debug\Test8.pdb

@@ -1,0 +1,12 @@
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.exe.config
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.exe
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.pdb
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.Form1.resources
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.Properties.Resources.resources
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.exe
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.pdb
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\bin\Debug\Database1.mdf
+D:\LapTrinhTrucQuan\ThiGiuaKy\ThiGiuaKy\bin\Debug\Database1_log.ldf

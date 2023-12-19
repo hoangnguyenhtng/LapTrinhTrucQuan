@@ -1,0 +1,10 @@
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\bin\Debug\ThucHanhBuoi4.exe.config
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\bin\Debug\ThucHanhBuoi4.exe
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\bin\Debug\ThucHanhBuoi4.pdb
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\obj\Debug\ThucHanhBuoi4.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\obj\Debug\ThucHanhBuoi4.Form1.resources
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\obj\Debug\ThucHanhBuoi4.Properties.Resources.resources
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\obj\Debug\ThucHanhBuoi4.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\obj\Debug\ThucHanhBuoi4.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\obj\Debug\ThucHanhBuoi4.exe
+D:\LapTrinhTrucQuan\ThucHanhBuoi4\ThucHanhBuoi4\obj\Debug\ThucHanhBuoi4.pdb

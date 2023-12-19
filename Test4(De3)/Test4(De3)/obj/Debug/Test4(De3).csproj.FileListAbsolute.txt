@@ -1,0 +1,10 @@
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\bin\Debug\Test4(De3).exe.config
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\bin\Debug\Test4(De3).exe
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\bin\Debug\Test4(De3).pdb
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\obj\Debug\Test4(De3).csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\obj\Debug\Test4_De3_.Form1.resources
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\obj\Debug\Test4_De3_.Properties.Resources.resources
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\obj\Debug\Test4(De3).csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\obj\Debug\Test4(De3).csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\obj\Debug\Test4(De3).exe
+D:\LapTrinhTrucQuan\Test4(De3)\Test4(De3)\obj\Debug\Test4(De3).pdb

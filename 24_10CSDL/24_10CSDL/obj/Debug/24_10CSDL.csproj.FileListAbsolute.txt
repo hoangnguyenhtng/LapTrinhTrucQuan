@@ -1,0 +1,12 @@
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\bin\Debug\24_10CSDL.exe.config
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\bin\Debug\24_10CSDL.exe
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\bin\Debug\24_10CSDL.pdb
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\obj\Debug\24_10CSDL.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\obj\Debug\_24_10CSDL.Form1.resources
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\obj\Debug\_24_10CSDL.Properties.Resources.resources
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\obj\Debug\24_10CSDL.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\obj\Debug\24_10CSDL.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\obj\Debug\24_10CSDL.exe
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\obj\Debug\24_10CSDL.pdb
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\bin\Debug\Database.mdf
+D:\LapTrinhTrucQuan\24_10CSDL\24_10CSDL\bin\Debug\Database_log.ldf

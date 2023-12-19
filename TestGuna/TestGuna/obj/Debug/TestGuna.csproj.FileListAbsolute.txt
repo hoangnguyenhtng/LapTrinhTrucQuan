@@ -1,0 +1,12 @@
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\bin\Debug\TestGuna.exe.config
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\bin\Debug\TestGuna.exe
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\bin\Debug\TestGuna.pdb
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\bin\Debug\Guna.UI2.dll
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\obj\Debug\TestGuna.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\obj\Debug\TestGuna.Form1.resources
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\obj\Debug\TestGuna.Properties.Resources.resources
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\obj\Debug\TestGuna.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\obj\Debug\TestGuna.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\obj\Debug\TestGuna.csproj.CopyComplete
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\obj\Debug\TestGuna.exe
+D:\LapTrinhTrucQuan\TestGuna\TestGuna\obj\Debug\TestGuna.pdb

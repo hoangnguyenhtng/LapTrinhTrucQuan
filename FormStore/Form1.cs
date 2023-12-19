@@ -158,5 +158,10 @@ namespace FormStore
         {
             Close();
         }
+
+        private void lstHangDatMua_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

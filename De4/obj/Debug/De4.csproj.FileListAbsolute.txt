@@ -1,0 +1,20 @@
+F:\document\Ki 5\Lap Trinh Web\De4\bin\Debug\De4.exe.config
+F:\document\Ki 5\Lap Trinh Web\De4\bin\Debug\De4.exe
+F:\document\Ki 5\Lap Trinh Web\De4\bin\Debug\De4.pdb
+F:\document\Ki 5\Lap Trinh Web\De4\obj\Debug\De4.csproj.AssemblyReference.cache
+F:\document\Ki 5\Lap Trinh Web\De4\obj\Debug\De4.Form1.resources
+F:\document\Ki 5\Lap Trinh Web\De4\obj\Debug\De4.Properties.Resources.resources
+F:\document\Ki 5\Lap Trinh Web\De4\obj\Debug\De4.csproj.GenerateResource.cache
+F:\document\Ki 5\Lap Trinh Web\De4\obj\Debug\De4.csproj.CoreCompileInputs.cache
+F:\document\Ki 5\Lap Trinh Web\De4\obj\Debug\De4.exe
+F:\document\Ki 5\Lap Trinh Web\De4\obj\Debug\De4.pdb
+D:\LapTrinhTrucQuan\De4\bin\Debug\De4.exe.config
+D:\LapTrinhTrucQuan\De4\bin\Debug\De4.exe
+D:\LapTrinhTrucQuan\De4\bin\Debug\De4.pdb
+D:\LapTrinhTrucQuan\De4\obj\Debug\De4.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\De4\obj\Debug\De4.Form1.resources
+D:\LapTrinhTrucQuan\De4\obj\Debug\De4.Properties.Resources.resources
+D:\LapTrinhTrucQuan\De4\obj\Debug\De4.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\De4\obj\Debug\De4.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\De4\obj\Debug\De4.exe
+D:\LapTrinhTrucQuan\De4\obj\Debug\De4.pdb

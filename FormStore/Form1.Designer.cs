@@ -35,13 +35,13 @@
             this.lstDanhSachMatHang = new System.Windows.Forms.ListBox();
             this.lstHangDatMua = new System.Windows.Forms.ListBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.rdbTienMat = new System.Windows.Forms.RadioButton();
-            this.rdbSec = new System.Windows.Forms.RadioButton();
             this.rdbTheTinDung = new System.Windows.Forms.RadioButton();
-            this.chbDienThoai = new System.Windows.Forms.CheckBox();
-            this.chbFax = new System.Windows.Forms.CheckBox();
+            this.rdbSec = new System.Windows.Forms.RadioButton();
+            this.rdbTienMat = new System.Windows.Forms.RadioButton();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.chbEmail = new System.Windows.Forms.CheckBox();
+            this.chbFax = new System.Windows.Forms.CheckBox();
+            this.chbDienThoai = new System.Windows.Forms.CheckBox();
             this.txtHoTen = new System.Windows.Forms.TextBox();
             this.txtDienThoai = new System.Windows.Forms.TextBox();
             this.btnDongY = new System.Windows.Forms.Button();
@@ -106,6 +106,7 @@
             this.lstHangDatMua.Name = "lstHangDatMua";
             this.lstHangDatMua.Size = new System.Drawing.Size(283, 132);
             this.lstHangDatMua.TabIndex = 1;
+            this.lstHangDatMua.SelectedIndexChanged += new System.EventHandler(this.lstHangDatMua_SelectedIndexChanged);
             this.lstHangDatMua.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.lstHangDatMua_MouseDoubleClick);
             // 
             // groupBox1
@@ -120,40 +121,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Phương thức thanh toán";
             // 
-            // groupBox2
-            // 
-            this.groupBox2.Controls.Add(this.chbEmail);
-            this.groupBox2.Controls.Add(this.chbFax);
-            this.groupBox2.Controls.Add(this.chbDienThoai);
-            this.groupBox2.Location = new System.Drawing.Point(448, 264);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(283, 138);
-            this.groupBox2.TabIndex = 3;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Hình thức liên lạc";
-            // 
-            // rdbTienMat
-            // 
-            this.rdbTienMat.AutoSize = true;
-            this.rdbTienMat.Location = new System.Drawing.Point(38, 35);
-            this.rdbTienMat.Name = "rdbTienMat";
-            this.rdbTienMat.Size = new System.Drawing.Size(80, 20);
-            this.rdbTienMat.TabIndex = 0;
-            this.rdbTienMat.TabStop = true;
-            this.rdbTienMat.Text = "Tiền mặt";
-            this.rdbTienMat.UseVisualStyleBackColor = true;
-            // 
-            // rdbSec
-            // 
-            this.rdbSec.AutoSize = true;
-            this.rdbSec.Location = new System.Drawing.Point(38, 61);
-            this.rdbSec.Name = "rdbSec";
-            this.rdbSec.Size = new System.Drawing.Size(52, 20);
-            this.rdbSec.TabIndex = 0;
-            this.rdbSec.TabStop = true;
-            this.rdbSec.Text = "Séc";
-            this.rdbSec.UseVisualStyleBackColor = true;
-            // 
             // rdbTheTinDung
             // 
             this.rdbTheTinDung.AutoSize = true;
@@ -166,25 +133,39 @@
             this.rdbTheTinDung.UseVisualStyleBackColor = true;
             this.rdbTheTinDung.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
-            // chbDienThoai
+            // rdbSec
             // 
-            this.chbDienThoai.AutoSize = true;
-            this.chbDienThoai.Location = new System.Drawing.Point(55, 34);
-            this.chbDienThoai.Name = "chbDienThoai";
-            this.chbDienThoai.Size = new System.Drawing.Size(88, 20);
-            this.chbDienThoai.TabIndex = 0;
-            this.chbDienThoai.Text = "Điện thoại";
-            this.chbDienThoai.UseVisualStyleBackColor = true;
+            this.rdbSec.AutoSize = true;
+            this.rdbSec.Location = new System.Drawing.Point(38, 61);
+            this.rdbSec.Name = "rdbSec";
+            this.rdbSec.Size = new System.Drawing.Size(52, 20);
+            this.rdbSec.TabIndex = 0;
+            this.rdbSec.TabStop = true;
+            this.rdbSec.Text = "Séc";
+            this.rdbSec.UseVisualStyleBackColor = true;
             // 
-            // chbFax
+            // rdbTienMat
             // 
-            this.chbFax.AutoSize = true;
-            this.chbFax.Location = new System.Drawing.Point(55, 62);
-            this.chbFax.Name = "chbFax";
-            this.chbFax.Size = new System.Drawing.Size(51, 20);
-            this.chbFax.TabIndex = 0;
-            this.chbFax.Text = "Fax";
-            this.chbFax.UseVisualStyleBackColor = true;
+            this.rdbTienMat.AutoSize = true;
+            this.rdbTienMat.Location = new System.Drawing.Point(38, 35);
+            this.rdbTienMat.Name = "rdbTienMat";
+            this.rdbTienMat.Size = new System.Drawing.Size(80, 20);
+            this.rdbTienMat.TabIndex = 0;
+            this.rdbTienMat.TabStop = true;
+            this.rdbTienMat.Text = "Tiền mặt";
+            this.rdbTienMat.UseVisualStyleBackColor = true;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.chbEmail);
+            this.groupBox2.Controls.Add(this.chbFax);
+            this.groupBox2.Controls.Add(this.chbDienThoai);
+            this.groupBox2.Location = new System.Drawing.Point(448, 264);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(283, 138);
+            this.groupBox2.TabIndex = 3;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Hình thức liên lạc";
             // 
             // chbEmail
             // 
@@ -196,6 +177,26 @@
             this.chbEmail.Text = "Email";
             this.chbEmail.UseVisualStyleBackColor = true;
             this.chbEmail.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
+            // 
+            // chbFax
+            // 
+            this.chbFax.AutoSize = true;
+            this.chbFax.Location = new System.Drawing.Point(55, 62);
+            this.chbFax.Name = "chbFax";
+            this.chbFax.Size = new System.Drawing.Size(51, 20);
+            this.chbFax.TabIndex = 0;
+            this.chbFax.Text = "Fax";
+            this.chbFax.UseVisualStyleBackColor = true;
+            // 
+            // chbDienThoai
+            // 
+            this.chbDienThoai.AutoSize = true;
+            this.chbDienThoai.Location = new System.Drawing.Point(55, 34);
+            this.chbDienThoai.Name = "chbDienThoai";
+            this.chbDienThoai.Size = new System.Drawing.Size(88, 20);
+            this.chbDienThoai.TabIndex = 0;
+            this.chbDienThoai.Text = "Điện thoại";
+            this.chbDienThoai.UseVisualStyleBackColor = true;
             // 
             // txtHoTen
             // 
